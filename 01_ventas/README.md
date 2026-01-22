@@ -24,3 +24,7 @@ A partir del análisis, se plantearán recomendaciones accionables orientadas a 
 
 ## Riesgos y limitaciones
 El análisis depende de la calidad y representatividad de los datos disponibles.
+
+## Resultado del análisis
+El proyecto permitió clasificar las sedes según su desempeño comercial y proponer acciones diferenciadas para maximizar ingresos, optimizar el ticket promedio y reducir riesgo operativo.
+
