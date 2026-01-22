@@ -1,1 +1,18 @@
-
+fecha,sede,cliente_id,servicio,monto,metodo_pago,canal,vendedor
+2024-01-03,Nezahualcoyotl,C001,Consulta Inicial,500,Efectivo,Presencial,Ana Lopez
+2024-01-03,Balbuena,C002,Plan 10 Sesiones,4500,Transferencia,Presencial,Carlos Ruiz
+2024-01-04,Chalco,C003,Sesion Individual,600,Tarjeta,Presencial,Laura Perez
+2024-01-04,Nezahualcoyotl,C004,Consulta Inicial,500,Efectivo,Digital,Ana Lopez
+2024-01-05,Balbuena,C005,Plan 15 Sesiones,6500,Transferencia,Presencial,Carlos Ruiz
+2024-01-06,Chalco,C006,Consulta Inicial,500,Efectivo,Presencial,Laura Perez
+2024-01-06,Nezahualcoyotl,C007,Plan 10 Sesiones,4500,Transferencia,Presencial,Ana Lopez
+2024-01-07,Coapa,C008,Sesion Individual,600,Tarjeta,Presencial,Marco Diaz
+2024-01-08,Coapa,C009,Consulta Inicial,500,Efectivo,Digital,Marco Diaz
+2024-01-08,Balbuena,C010,Plan 20 Sesiones,8200,Transferencia,Presencial,Carlos Ruiz
+2024-01-09,Nezahualcoyotl,C011,Sesion Individual,600,Efectivo,Presencial,Ana Lopez
+2024-01-10,Chalco,C012,Plan 10 Sesiones,4500,Transferencia,Presencial,Laura Perez
+2024-01-10,Coapa,C013,Consulta Inicial,500,Efectivo,Presencial,Marco Diaz
+2024-01-11,Balbuena,C014,Sesion Individual,600,Tarjeta,Presencial,Carlos Ruiz
+2024-01-12,Nezahualcoyotl,C015,Plan 15 Sesiones,6500,Transferencia,Presencial,Ana Lopez
+2024-01-13,Chalco,C016,Sesion Individual,600,Efectivo,Presencial,Laura Perez
+2024-01-14,Coapa,C017,Plan 10 Sesiones,4500,Transferencia,Presencial,Marco Diaz
